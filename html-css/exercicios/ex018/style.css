@@ -1,0 +1,27 @@
+@charset
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+body{
+    background-color: rgb(201, 167, 233);
+    font-family:font-family: Aboreto, cursive, sans-serif;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+h1{
+    background-color: aqua;
+    font-family:Aboreto, cursive, sans-serif;
+    font-weight: bolder;
+    font-size: 2em;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+h2{
+    background-color: aqua;
+    text-align: center; color: rgb(0, 0, 0);
+}
+p{
+    margin: auto;
+    width: auto;
+    padding: 10px; ;
+    text-align: justify;
+    text-indent: 30px;}
